@@ -1,4 +1,4 @@
 <?php
 include("funciones.php");
 
-echo bases_de_datos(11209);
+echo bases_de_datos('', '');
